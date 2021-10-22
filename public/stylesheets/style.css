@@ -1,0 +1,99 @@
+.navbar-dark{
+  background-color: #46E175;
+}
+
+body{
+  background-color: rgb(40, 44, 52) !important;
+}
+
+.navbar-brand{
+  margin-left: 10px;
+}
+
+.options{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.text-left-options{
+  color: #fff;
+}
+
+.question{
+  border: 1px solid #4F6B81;
+}
+
+.text-left-options{
+  color: #fff;
+}
+
+.question-text{
+  color: #4F6B81;
+}
+
+#editor {
+  width: 500px;
+  height: 400px;
+}
+
+.explaination-result{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #4F6B81;
+  color: white;
+  padding-left: 10px;
+  padding-top: 5px;
+}
+
+.question h6{
+  color: #fff;
+}
+
+.explaination-solution{
+  border: 1px solid #4F6B81;
+  color: white;
+  padding-left: 10px;
+  padding-top: 5px;
+
+}
+
+.explaination-solution h5{
+  color: #fff;
+}
+
+.custom-btn{
+  background-color: transparent !important;
+  color: white !important;
+  border: none !important;
+}
+
+.explaination-result-2{
+  margin-top: 5px;
+  min-height: 200px;
+  border: 1px solid #4F6B81;
+  color: #4F6B81;
+}
+
+.explaination-result-2 h6{
+ margin-left: 10px;
+ margin-top: 10px;
+}
+
+.submit-btn{
+  float: right;
+}
+
+.btn-custom{
+  margin-top: 10px !important;
+  float: right;
+}
+
+.btn-custom-clean{
+  margin-top: 10px !important;
+  float: right;
+  margin-right: 10px;
+}
+
+.position{
+  float: right;
+}
